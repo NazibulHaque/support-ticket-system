@@ -28,7 +28,7 @@ Welcome to the Support Ticket System — a Laravel-based application designed to
 1. Clone or Download the Project
 2. Install PHP Dependencies 
 3. Copy and Configure. Env
-4.Run composer.update
+4. Run composer.update
 5. Run Migrations
 6. php artisan db:seed
 6. Run the Development Server
